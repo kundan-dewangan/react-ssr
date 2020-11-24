@@ -1,4 +1,4 @@
-Clone the repo with git clone https://github.com/kundan-dewangan/react-ssr
+Clone the repo with git clone git@github.com:kundan-dewangan/react-ssr.git
 
 Install dependencies with npm i
 
